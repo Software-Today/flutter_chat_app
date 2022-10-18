@@ -1,4 +1,4 @@
-# Happy Chat
+# Flutter Chat using supabase
 
 ## SQL
 
