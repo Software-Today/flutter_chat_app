@@ -1,7 +1,5 @@
 # Happy Chat
 
-This is the Flutter version of the Happy Chat app build during the [Happy Hour stream](https://www.youtube.com/watch?v=sOSrPDtvvaQ&list=PL5S4mPUpp4OvEgxBhoVxXb5YS1ZAZih2l) by Supabase. 
-
 ## SQL
 
 We use `CITEXt` postgres extention in this app. In order to enable this extention, go to Database -> Extentions and find `CITEXT` extention and enable it!
